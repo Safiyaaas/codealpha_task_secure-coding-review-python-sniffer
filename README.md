@@ -26,6 +26,3 @@ This repository contains a complete secure coding review (Task 3) for a basic Py
 - Follow OWASP guidelines for Python.
 - Test thoroughly and avoid running sniffers on untrusted networks.
 - Contribute or report issues via GitHub.
-
-## License
-MIT License (add if desired).
